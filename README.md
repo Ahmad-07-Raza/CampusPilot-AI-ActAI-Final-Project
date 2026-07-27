@@ -257,34 +257,46 @@ https://github.com/Ahmad-07-Raza/CampusPilot-AI-ActAI-Final-Project/blob/main/Sc
 
 ---
 
-🚀 How to Run the Project
+## 🚀 How to Run the Project
 
-1. Clone the Repository
+### 1. Clone the Repository
 
-git clone https://github.com/YOUR_USERNAME/CampusPilot-AI.git
+```bash
+git clone https://github.com/Ahmad-07-Raza/CampusPilot-AI-ActAI-Final-Project.git
+```
 
-2. Navigate to the Project
+### 2. Navigate to the Project
 
-cd CampusPilot-AI
+```bash
+cd CampusPilot-AI-ActAI-Final-Project
+```
 
-3. Install Dependencies
+### 3. Install Dependencies
 
+```bash
 npm install
+```
 
-4. Configure Environment Variables
+### 4. Configure Environment Variables
 
-Create a ".env" file and add:
+Create a `.env` file and add:
 
+```env
 GEMINI_API_KEY=YOUR_GEMINI_API_KEY
 APP_URL=http://localhost:5173
+```
 
-5. Start the Development Server
+### 5. Start the Development Server
 
+```bash
 npm run dev
+```
 
-The application will be available at:
+Open your browser and visit:
 
+```
 http://localhost:5173
+```
 
 ---
 
