@@ -298,21 +298,6 @@ Open your browser and visit:
 http://localhost:5173
 ```
 
----
-
-📂 Project Structure
-
-CampusPilot-AI
-│
-├── api
-├── src
-├── components
-├── pages
-├── hooks
-├── services
-├── public
-├── assets
-└── package.json
 
 ---
 
