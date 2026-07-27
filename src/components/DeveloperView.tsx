@@ -549,7 +549,7 @@ export const DeveloperView: React.FC<DeveloperViewProps> = ({ setActiveTab }) =>
               <div>
                 <span className="text-[10px] font-bold uppercase text-slate-400 tracking-wider">GitHub Profile</span>
                 <p className="font-mono text-xs font-bold text-slate-900 dark:text-white">
-                  @ahmadraza
+                  Ahmad Raza
                 </p>
               </div>
               <p className="text-xs text-slate-500 dark:text-slate-400">
@@ -558,7 +558,7 @@ export const DeveloperView: React.FC<DeveloperViewProps> = ({ setActiveTab }) =>
             </div>
 
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/Ahmad-07-Raza/"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full py-2 px-3 bg-slate-900 hover:bg-slate-800 text-white text-xs font-semibold rounded-xl flex items-center justify-center gap-1.5 transition-colors"
@@ -589,7 +589,7 @@ export const DeveloperView: React.FC<DeveloperViewProps> = ({ setActiveTab }) =>
             </div>
 
             <a
-              href="https://linkedin.com/in/yourusername"
+              href="https://linkedin.com/in/ahmad-raza-7ab010346?"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full py-2 px-3 bg-blue-600 hover:bg-blue-500 text-white text-xs font-semibold rounded-xl flex items-center justify-center gap-1.5 shadow-xs transition-colors"
