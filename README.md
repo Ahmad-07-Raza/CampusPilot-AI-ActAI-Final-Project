@@ -244,6 +244,9 @@ CampusPilot AI follows modern security practices:
 ---
 
 📸 Screenshots
+
+https://github.com/Ahmad-07-Raza/CampusPilot-AI-ActAI-Final-Project/blob/main/Screenshot_20260727-234114.jpg
+
 https://github.com/Ahmad-07-Raza/CampusPilot-AI-ActAI-Final-Project/blob/main/Screenshot_20260727-234154.jpg
 
 https://github.com/Ahmad-07-Raza/CampusPilot-AI-ActAI-Final-Project/blob/main/Screenshot_20260727-234101.jpg
