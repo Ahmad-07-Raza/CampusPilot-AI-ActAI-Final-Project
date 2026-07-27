@@ -244,40 +244,13 @@ CampusPilot AI follows modern security practices:
 ---
 
 📸 Screenshots
+https://github.com/Ahmad-07-Raza/CampusPilot-AI-ActAI-Final-Project/blob/main/Screenshot_20260727-234154.jpg
 
-🏠 Home Page
+https://github.com/Ahmad-07-Raza/CampusPilot-AI-ActAI-Final-Project/blob/main/Screenshot_20260727-234101.jpg
 
-(Add screenshot here)
+https://github.com/Ahmad-07-Raza/CampusPilot-AI-ActAI-Final-Project/blob/main/Screenshot_20260727-233959.jpg
 
----
-
-🤖 AI Study Assistant
-
-(Add screenshot here)
-
----
-
-❓ Quiz Generator
-
-(Add screenshot here)
-
----
-
-📝 Notes Summarizer
-
-(Add screenshot here)
-
----
-
-💻 Programming Assistant
-
-(Add screenshot here)
-
----
-
-📅 Study Planner
-
-(Add screenshot here)
+https://github.com/Ahmad-07-Raza/CampusPilot-AI-ActAI-Final-Project/blob/main/Screenshot_20260727-233908.jpg
 
 ---
 
